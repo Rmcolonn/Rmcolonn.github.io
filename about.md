@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-I am currently enrolled in the Accelerated Bachelors/Masters program for Statistics at NC State. I Graduated from undergrad on May 9th, and am now officially a Masters student. During my undergraduate career at NC State I worked with the NC State baseball and tennis teams. I'm planning to continue to help out on those projects, but take more of a advisor role since I will be graduating soon. 
+I am currently enrolled in the Accelerated Bachelors/Masters program for Statistics at NC State. I Graduated from undergrad on May 9th, and am now officially a Masters student. During my undergraduate career, I worked with the NC State baseball and tennis team. I'm planning to continue to help out on those projects, but take more of a advisor role since I will be graduating from graduate school soon. 
 
 ### More Information
 
